@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @leooladimu
+- 👀 I’m interested in bicycling, dance music, and prison abolition.
+- 🌱 I’m currently learning web development at Lambda School.
+- 💞️ I’m looking to collaborate on anything I can. 
+- 📫 Reach me at https://www.linkedin.com/in/leo-oladimu/
+
+<!---
+leooladimu/leooladimu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
