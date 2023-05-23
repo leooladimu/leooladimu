@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Leo</h1>
-<h3 align="center">I’m into bicycling, dance music, and computation.</h3>
+<h3 align="center">I’m into bicycling, dance music, and building websites for small businesses.</h3>
 
 - 📫 How to reach me **leo@oleo.dev**
 
