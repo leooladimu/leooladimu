@@ -13,7 +13,7 @@ I'm Leo Ọládimú, a passionate software engineer specializing in full-stack d
 <p align="left">
   <img src="MERN-logo.png" alt="MERN Stack" width="100"/>
   <img src="next-transparent.png" alt="Next.js" width="100"/>
-  <img src="typescript-transparent.jpg" alt="TypeScript" width="100"/>
+  <img src="typescript-transparent.png" alt="TypeScript" width="100"/>
 </p>
 
 ## Connect with Me
