@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/leooladimu/leooladimu/main/mern.png" alt="MERN Stack" width="80" height="40"/>
-  <img src="https://raw.githubusercontent.com/leooladimu/leooladimu/main/n-logo.png" alt="N Logo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/leooladimu/leooladimu/main/typescript.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/leooladimu/leooladimu/main/MERN-logo.png" alt="MERN Stack" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/leooladimu/leooladimu/main/next.jpg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/leooladimu/leooladimu/main/typescript.jpg" alt="TypeScript" width="40" height="40"/>
 </p>
