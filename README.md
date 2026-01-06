@@ -16,12 +16,8 @@ I'm Leo Ọládimú, a passionate software engineer specializing in full-stack d
   <img src="typescript-transparent.jpg" alt="TypeScript" width="100"/>
 </p>
 
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=leooladimu&show_icons=true&theme=radical)
-
 ## Connect with Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/leooladimu/]
+- 💼 LinkedIn: https://www.linkedin.com/in/leooladimu/
 - 📧 Email: leo@oleo.dev
 
 ---
