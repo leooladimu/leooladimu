@@ -18,6 +18,6 @@ I'm Leo Ọládimú, a passionate software engineer specializing in full-stack d
 </p>
 
 ## Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/leooladimu/
-- 📧 Email: leo@oleo.dev
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leo-oladimu/" height="30" width="40" /> https://www.linkedin.com/in/leooladimu/
+- 📫 leo@oleo.dev
 
