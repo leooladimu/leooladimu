@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋🏽 <img width="45" height="45" alt="headshot" src="https://github.com/user-attachments/assets/38e92407-5432-447e-b91a-7a5d550aa1de"/>
+<h1 align="center">Hey there! 👋🏽 
 </h1>
 
 I'm Leo Ọládimú, a passionate software engineer specializing in full-stack development.
