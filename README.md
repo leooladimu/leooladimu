@@ -21,5 +21,3 @@ I'm Leo Ọládimú, a passionate software engineer specializing in full-stack d
 - 💼 LinkedIn: https://www.linkedin.com/in/leooladimu/
 - 📧 Email: leo@oleo.dev
 
----
-⭐️ From [leooladimu](https://github.com/leooladimu)
