@@ -1,13 +1,12 @@
 <h1 align="center">Hey there! 👋🏽 
 </h1>
 
-I'm Leo Ọládimú, a passionate software engineer specializing in full-stack development.
+I'm Leo Ọládimú, a passionate software developer
 </p>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on building scalable web applications
+- 🔭 I'm currently building SaaS applications
 - 🌱 I'm constantly learning and improving my skills
-- 💬 Ask me about web development, cloud technologies, and software architecture
 
 ## 🛠️ Languages and Tools
 
