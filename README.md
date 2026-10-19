@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋🏽 
 </h1>
 
-I'm Leo Ọládimú, a passionate software developer
+I'm Leo Ọládimú
 </p>
 
 ## 🚀 About Me
